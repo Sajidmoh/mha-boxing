@@ -5,6 +5,7 @@ clock = pygame.time.Clock()
 
 mha =pygame.transform.scale(pygame.image.load("mha.png"),(100,150))
 mha_walk = pygame.transform.scale(pygame.image.load("mha_walk.png"),(100,150))
+
 mha_punch = pygame.transform.scale(pygame.image.load("mha_punch.png"),(100,150))
 ring = pygame.transform.scale(pygame.image.load("ring.jpg"),(800,600))
 
